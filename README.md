@@ -1,4 +1,4 @@
-[![MasterHead](https://instagram.fgny1-1.fna.fbcdn.net/v/t51.2885-19/424484903_1521218752069864_4068764437506482499_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgny1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=O2C96l75lbQAX8auiwc&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCPhmvknEkMK3xbItHK2Pkhf21e1I6VI87ZSVPbN5lLmw&oe=66095E85&_nc_sid=8b3546)
+[![MasterHead]([https://instagram.fgny1-1.fna.fbcdn.net/v/t51.2885-19/424484903_1521218752069864_4068764437506482499_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgny1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=O2C96l75lbQAX8auiwc&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCPhmvknEkMK3xbItHK2Pkhf21e1I6VI87ZSVPbN5lLmw&oe=66095E85&_nc_sid=8b3546](https://www.wallpaperflare.com/digital-art-artwork-cyber-cyberpunk-neon-lights-neon-lights-wallpaper-udewr))
 <h1 align="center">Hi 👋, I'm İsmet Sayın</h1>
 <h3 align="center">a passionate mobile developer from Turkey</h3>
 
