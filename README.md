@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/benrrayiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benrrayiha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/i̇smet sayın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smet sayın" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/İsmet Sayın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smet sayın" height="30" width="40" /></a>
 <a href="https://instagram.com/smetsyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smetsyn" height="30" width="40" /></a>
 <a href="https://medium.com/@ismetsayin11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismetsayin11" height="30" width="40" /></a>
 <a href="https://discord.gg/rayiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rayiha" height="30" width="40" /></a>
